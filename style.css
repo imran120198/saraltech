@@ -17,6 +17,7 @@ header {
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
+
 nav {
   height: 70px;
   width: 100%;
@@ -29,10 +30,6 @@ nav {
   line-height: 60px;
   margin-left: 35px;
   cursor: pointer;
-  font-family: "Brush Script MT", cursive;
-  span {
-    color: #f07900;
-  }
 }
 
 nav ul {
@@ -57,8 +54,7 @@ nav ul li a {
 
 li:hover {
   a {
-    color: #f07900;
-    font-size: 17px;
+    font-size: 18px;
     font-weight: bold;
     transition: 0.5s;
   }
@@ -76,7 +72,6 @@ li:after {
 
 li:hover:after {
   width: 100%;
-  background-color: #f07900;
 }
 
 .checkBtn {
