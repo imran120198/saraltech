@@ -1,6 +1,7 @@
 # SaralTech Assignment
 
 ## Deployment Link
+https://imran120198.github.io/saraltech/
 
 ## Problem Statement
 Create a webpage using HTML and CSS
